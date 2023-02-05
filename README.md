@@ -63,10 +63,11 @@
 <details>
 <summary>Backend</summary>
   <ul>
-    <li><a href="https://github.com/vigehi/hello_rails_backend.git">React Backend Repository</a></li>
+    <li><a href="https://github.com/vigehi/hello-rails-backend.git">React Backend Repository</a></li>
   </ul>
 </details>
 
+https://github.com/vigehi/hello-rails-backend/pull/1
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -83,7 +84,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Clone the repository
 
 ```shell
-git clone https://github.com/Ol-create/hello-react-frontend.git
+git clone https://github.com/vigehi/hello-react-frontend.git
 cd hello-react-front-end
 ```
 
@@ -124,7 +125,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Edith Vigehi**
+👤 **Edithoga**
 
 - [GitHub: vegihi](https://github.com/vigehi)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
