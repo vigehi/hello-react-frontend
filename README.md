@@ -63,7 +63,7 @@
 <details>
 <summary>Backend</summary>
   <ul>
-    <li><a href="https://github.com/vigehi/hello_rails_backend.git">React Backend Repository</a></li>
+    <li><a href="https://github.com/vigehi/hello-rails-backend.git">React Backend Repository</a></li>
   </ul>
 </details>
 
@@ -83,7 +83,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Clone the repository
 
 ```shell
-git clone https://github.com/Ol-create/hello-react-frontend.git
+git clone https://github.com/vigehi/hello-react-frontend.git
 cd hello-react-front-end
 ```
 
