@@ -124,7 +124,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Edith Vigehi**
+👤 **Edithoga**
 
 - [GitHub: vegihi](https://github.com/vigehi)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
